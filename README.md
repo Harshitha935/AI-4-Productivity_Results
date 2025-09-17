@@ -6,11 +6,11 @@ The repo provides evidence of partially optimized vs. optimized outputs evaluate
 
 Files and their descriptions: 
 
-1) Example_of_improvement-Before
+1) Example_of_improvement-Before : 
 Screenshot of my LinkedIn profile evaluation when developing the workflow. The profile shows amber ratings in the "Content" category , highlighting key weaknesses of the non-agentic process.
 
-2) Example-Improvement_with_AI_Agent
+2) Example-Improvement_with_AI_Agent: 
 Screenshot of my LinkedIn profile evaluation after optimization with the agentic workflow. The updated profile shows all categories rated green, reflecting a fully optimized LinkedIn presence.
 
-3) Sample_chat
+3) Sample_chat: 
 Excerpt of a chat with the AI agent, showing how it was configured, refined, and guided to generate LinkedIn section content. This illustrates the iterative, collaborative workflow used to achieve the improved outputs.
